@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cards Against Exclusion</title>
+   
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/media/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/media/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/media/favicon-16x16.png">
+    <link rel="manifest" href="/media/site.webmanifest">
+    <link rel="mask-icon" href="/media/safari-pinned-tab.svg" color="#000000">
+    <link rel="shortcut icon" href="/media/favicon.ico">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="msapplication-config" content="/media/browserconfig.xml">
+    <meta name="theme-color" content="#FBFAD1">
+
+</head>
+<body>
+    
+    <div class="start" id="start-screen">
+        <span class="start__logo">Cards Against Exclusion</span>
+        <h1 class="start__title">Zet digitale inclusie op de kaart.</h1>
+        <button class="start__btn" id="start-btn">Start</button>
+    </div>
+
+    <div class="game" id="question-container" style="display: none;"></div>
+
+    <div class="modal" id="answer-explanation" style="display: none;">
+        <div class="modal__item">
+            <div class="modal__html" id="explanation-html"></div>
+            <div class="modal__info">
+                <h3 class="modal__title" id="explanation-title"></h3>
+                <p class="modal__text" id="explanation-text"></p>
+            </div>
+            <button class="modal__btn" id="next-question-btn">Volgende vraag</button>
+        </div>
+    </div>
+
+    <div class="end" id="end-screen" style="display: none;">
+        <a href="/" class="end__logo">Cards Against Exclusion</a>
+        <div class="end__info">
+            <h2 class="end__title">Zet digitale inclusie op de kaart.</h2>
+            <p class="end__text">Wil je als team aan de slag met digitale toegankelijkheid en inclusie of meer weten over incusief gebruikersonderzoek. Neem contact op en wij helpen je graag bij het verder verkennen van de mogelijkheden.</p>
+        </div>
+        <a href="mailto:jorgen.verweij@vgz.nl" class="end__btn">Neem contact op</a>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

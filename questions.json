@@ -1,0 +1,55 @@
+{
+  "questions": [
+    {
+      "question": "Om een video begrijpelijk te maken voor iemand die doof is…",
+      "description": "Ruim 360 miljoen mensen over de hele wereld hebben een invaliderend gehoorverlies. Dat is ongeveer 5% van de wereldbevolking.",
+      "answers": ["… voeg je ondertiteling toe aan de video.", "… kan je de video voorzien van audio-descriptie.", "… zorg je ervoor dat er altijd een doventolk in beeld is.", "… zet je het geluid uit voor iedereen."],
+      "explanation": {
+        "title": "Cras congue odio at urna rhoncus, eu iaculis odio tempor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque mi a nisi ultrices, non porta libero pulvinar. Etiam fringilla, sapien in eleifend blandit, turpis turpis tincidunt nunc, quis cursus enim enim ut mauris. Morbi gravida eros rutrum risus egestas tempus. Integer eu dolor id mi tempus ultrices.",
+        "html": "<img src='/media/image-1.svg'/>"
+      }
+    },
+    {
+      "question": "Om een video begrijpelijk te maken voor iemand die doof is…",
+      "description": "Ruim 360 miljoen mensen over de hele wereld hebben een invaliderend gehoorverlies. Dat is ongeveer 5% van de wereldbevolking.",
+      "answers": ["… voeg je ondertiteling toe aan de video.", "… kan je de video voorzien van audio-descriptie.", "… zorg je ervoor dat er altijd een doventolk in beeld is.", "… zet je het geluid uit voor iedereen."],
+      "explanation": {
+        "title": "Cras congue odio at urna rhoncus, eu iaculis odio tempor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque mi a nisi ultrices, non porta libero pulvinar. Etiam fringilla, sapien in eleifend blandit, turpis turpis tincidunt nunc, quis cursus enim enim ut mauris. Morbi gravida eros rutrum risus egestas tempus. Integer eu dolor id mi tempus ultrices.",
+        "html": "<img src='/media/image-1.svg'/>"
+      }
+    },
+    {
+      "question": "Om een video begrijpelijk te maken voor iemand die doof is…",
+      "description": "Ruim 360 miljoen mensen over de hele wereld hebben een invaliderend gehoorverlies. Dat is ongeveer 5% van de wereldbevolking.",
+      "answers": ["… voeg je ondertiteling toe aan de video.", "… kan je de video voorzien van audio-descriptie.", "… zorg je ervoor dat er altijd een doventolk in beeld is.", "… zet je het geluid uit voor iedereen."],
+      "explanation": {
+        "title": "Cras congue odio at urna rhoncus, eu iaculis odio tempor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque mi a nisi ultrices, non porta libero pulvinar. Etiam fringilla, sapien in eleifend blandit, turpis turpis tincidunt nunc, quis cursus enim enim ut mauris. Morbi gravida eros rutrum risus egestas tempus. Integer eu dolor id mi tempus ultrices.",
+        "html": "<img src='/media/image-1.svg'/>"
+      }
+    },
+    {
+      "question": "Om een video begrijpelijk te maken voor iemand die doof is…",
+      "description": "Ruim 360 miljoen mensen over de hele wereld hebben een invaliderend gehoorverlies. Dat is ongeveer 5% van de wereldbevolking.",
+      "answers": ["… voeg je ondertiteling toe aan de video.", "… kan je de video voorzien van audio-descriptie.", "… zorg je ervoor dat er altijd een doventolk in beeld is.", "… zet je het geluid uit voor iedereen."],
+      "explanation": {
+        "title": "Cras congue odio at urna rhoncus, eu iaculis odio tempor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque mi a nisi ultrices, non porta libero pulvinar. Etiam fringilla, sapien in eleifend blandit, turpis turpis tincidunt nunc, quis cursus enim enim ut mauris. Morbi gravida eros rutrum risus egestas tempus. Integer eu dolor id mi tempus ultrices.",
+        "html": "<img src='/media/image-1.svg'/>"
+      }
+    },
+    {
+      "question": "Om een video begrijpelijk te maken voor iemand die doof is…",
+      "description": "Ruim 360 miljoen mensen over de hele wereld hebben een invaliderend gehoorverlies. Dat is ongeveer 5% van de wereldbevolking.",
+      "answers": ["… voeg je ondertiteling toe aan de video.", "… kan je de video voorzien van audio-descriptie.", "… zorg je ervoor dat er altijd een doventolk in beeld is.", "… zet je het geluid uit voor iedereen."],
+      "explanation": {
+        "title": "Cras congue odio at urna rhoncus, eu iaculis odio tempor",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque mi a nisi ultrices, non porta libero pulvinar. Etiam fringilla, sapien in eleifend blandit, turpis turpis tincidunt nunc, quis cursus enim enim ut mauris. Morbi gravida eros rutrum risus egestas tempus. Integer eu dolor id mi tempus ultrices.",
+        "html": "<img src='/media/image-1.svg'/>"
+      }
+    }
+    
+  ]
+}
